@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\tarefa-bd-parte4-2etapa.props" />
+</Project>
